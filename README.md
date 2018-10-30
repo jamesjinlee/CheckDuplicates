@@ -14,7 +14,7 @@ Install Yarn if needed
 ```
 brew install
 ```
-##### Install Dependencies
+##### Install Dependencies/Modules
 
 ```
 yarn install
